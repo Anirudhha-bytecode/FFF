@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyGridViewDemo</string>
+    <string-array name="state_name">
+        <item>WestBengal</item>
+        <item>Delhi</item>
+        <item>Panjab</item>
+        <item>Hariyana</item>
+        <item>Mumbai</item>
+        <item>TamilNadu</item>
+        <item>Karnatak</item>
+        <item>kerala</item>
+        <item>Gujrat</item>
+        <item>Uttarakhand</item>
+        <item>UttarPradesh</item>
+        <item>Assam</item>
+        <item>Jharkhand</item>
+        <item>Bihar</item>
+    </string-array>
+</resources>
